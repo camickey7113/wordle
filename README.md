@@ -1,2 +1,2 @@
-# pretty-projects
-Personal projects that involve no collaboration.
+# wordle
+A small program that solves the daily Wordle.
